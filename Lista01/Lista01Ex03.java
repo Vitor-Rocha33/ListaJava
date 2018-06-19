@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Lista01Ex03 {
 
     
-    @SuppressWarnings("empty-statement")
+    
     public static void main(String[] args) {
       Scanner input = new Scanner (System.in);  
         
