@@ -1,4 +1,4 @@
-package lista01ex04;
+package lista01ex05;
 
 /**
  *
